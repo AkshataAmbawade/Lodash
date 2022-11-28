@@ -1,0 +1,15 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshata",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.chunk": "^4.2.0",
+    "lodash.rest": "^4.0.5"
+  }
+}
